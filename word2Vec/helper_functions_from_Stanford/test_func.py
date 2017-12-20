@@ -1,4 +1,4 @@
-from wrapper_help import *
+from helper_functions_from_Stanford.wrapper_help import *
 
 #############################################
 # Testing functions below. DO NOT MODIFY!   #

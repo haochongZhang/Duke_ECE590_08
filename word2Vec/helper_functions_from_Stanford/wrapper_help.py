@@ -1,9 +1,9 @@
 import numpy as np
 import random
 
-from softmax import softmax_sol as softmax
-from sigmoid import sigmoid_sol as sigmoid
-from sgd import *
+from helper_functions_from_Stanford.softmax import softmax_sol as softmax
+from helper_functions_from_Stanford.sigmoid import sigmoid_sol as sigmoid
+from helper_functions_from_Stanford.sgd import *
 
 def softmaxCostAndGradient(predicted, target, outputVectors, dataset):
     """ Softmax cost function for word2vec models """
