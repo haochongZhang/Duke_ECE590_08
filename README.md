@@ -1,5 +1,6 @@
 # Duke_ECE590_08
 This repository contains the collected files for the final project of ECE590-08.
+(As the Yelp dataset files are too large to upload to this github, we didn't upload them. Therefore, some parts of our codes can not run because they rely on the raw data files）
 
 There are three folders:
 
